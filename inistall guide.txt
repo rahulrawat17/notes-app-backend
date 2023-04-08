@@ -1,3 +1,13 @@
-npm init
-npm i mysql
-npm i --s express express-handlebars body-parser
+Step 1:
+install the node packages (make sure you have node and npm installed on your system)
+npm i
+
+Step 2:
+Create a database with name "notes"
+
+Step 3:
+Add Mysql credentials in the script.js file
+
+Step 4:
+run the below command to start the server
+node script.js
